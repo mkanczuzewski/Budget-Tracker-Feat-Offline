@@ -19,8 +19,9 @@ First, install google chrome, gitbash, visual studio code if you wish to review 
 
 ## Usage
 This project is used to demonstraite a service worker, indexDB, and manifest. <br />
-<br />
-
+Screenshot: https://github.com/mkanczuzewski/Budget-Tracker-Feat-Offline/blob/main/images/SS_Homepage.jpg <br />
+GitHub: https://github.com/mkanczuzewski/Budget-Tracker-Feat-Offline <br />
+Heroku: https://budget-tracker-feat-offline.herokuapp.com/ <br />
 
 ## License
 https://opensource.org/licenses/ISC
